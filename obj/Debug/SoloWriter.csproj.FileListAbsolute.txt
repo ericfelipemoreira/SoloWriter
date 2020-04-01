@@ -1,0 +1,9 @@
+A:\Workspace SoloWriter\SoloWriter\bin\Debug\SoloWriter.exe.config
+A:\Workspace SoloWriter\SoloWriter\bin\Debug\SoloWriter.exe
+A:\Workspace SoloWriter\SoloWriter\bin\Debug\SoloWriter.pdb
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.Main.resources
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.Properties.Resources.resources
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.csproj.GenerateResource.cache
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.csproj.CoreCompileInputs.cache
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.exe
+A:\Workspace SoloWriter\SoloWriter\obj\Debug\SoloWriter.pdb

@@ -1,0 +1,10 @@
+A:\Workspace SoloWriter\SoloWriter\bin\Release\SoloWriter.exe.config
+A:\Workspace SoloWriter\SoloWriter\bin\Release\SoloWriter.exe
+A:\Workspace SoloWriter\SoloWriter\bin\Release\SoloWriter.pdb
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.csprojAssemblyReference.cache
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.Main.resources
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.Properties.Resources.resources
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.csproj.GenerateResource.cache
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.csproj.CoreCompileInputs.cache
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.exe
+A:\Workspace SoloWriter\SoloWriter\obj\Release\SoloWriter.pdb
